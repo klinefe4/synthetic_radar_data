@@ -1,5 +1,5 @@
 # synthetic_radar_data
-Python code for generating radar returns from the MS-ASL dataset with the Google Mediapipe hand landmark detector.  This repo contains the CSV files with detected landmarks for the top 100 classes (ASL100) in the dataset, which you can use directly to generate micro-Doppler responses.  If you would like to generate the responses yourself you can download the dataset and install mediapipe locally.
+Python code for generating radar returns from MS-ASL dataset with Google Mediapipe multi-hand landmark detector.  This repo contains CSV files with detected landmarks for the top 100 classes (ASL100) in the dataset which you can use directly to generate micro-Doppler responses.  If you would like to generate the responses yourself you can download the dataset and install mediapipe locally.
 
 <h2>Installation (optional)</h2>
 
